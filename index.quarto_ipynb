@@ -1,0 +1,45 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Australian Farm Dams\"\n",
+        "toc: false\n",
+        "image: www/DamSample.jpeg\n",
+        "about: \n",
+        "  template: jolla\n",
+        "  image-shape: rectangle\n",
+        "  image-width: 1200px\n",
+        "---\n",
+        "\n",
+        "```{css}\n",
+        "#| echo: false\n",
+        "p {\n",
+        "  text-align: left\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "Some introductory text here describing Australian farm dams.\n",
+        "\n",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nam tincidunt, sapien nec congue porta, tellus risus ullamcorper mi, a rutrum justo eros pretium libero. Morbi eu tincidunt neque. In hac habitasse platea dictumst. Praesent in pulvinar orci, nec vulputate ipsum. Aliquam erat volutpat. Curabitur sagittis accumsan nisl, a dignissim eros varius in.\n",
+        "\n",
+        "Fusce tristique, turpis at molestie faucibus, ipsum erat molestie lorem, ac vulputate odio nulla nec sem. Quisque sollicitudin, mauris eu pulvinar fermentum, est sem varius tortor, eget efficitur sapien nisi non purus. Nullam vitae erat in nisi tempor ullamcorper nec at velit. Proin pellentesque molestie orci, in varius justo euismod nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis ut nulla in lorem fermentum vestibulum ac sed leo. Praesent convallis urna a lacus interdum ultrices. Mauris augue mauris, iaculis quis tincidunt non, efficitur nec diam.\n",
+        "\n",
+        "To learn more about the ausmaps, please visit  <https://ausdams.org>.\n"
+      ],
+      "id": "fe656139"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

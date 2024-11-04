@@ -1,0 +1,28 @@
+---
+title: "Australian Farm Dams"
+toc: false
+image: www/DamSample.jpeg
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 1200px
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: left
+}
+```
+
+Some introductory text here describing Australian farm dams.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nam tincidunt, sapien nec congue porta, tellus risus ullamcorper mi, a rutrum justo eros pretium libero. Morbi eu tincidunt neque. In hac habitasse platea dictumst. Praesent in pulvinar orci, nec vulputate ipsum. Aliquam erat volutpat. Curabitur sagittis accumsan nisl, a dignissim eros varius in.
+
+Fusce tristique, turpis at molestie faucibus, ipsum erat molestie lorem, ac vulputate odio nulla nec sem. Quisque sollicitudin, mauris eu pulvinar fermentum, est sem varius tortor, eget efficitur sapien nisi non purus. Nullam vitae erat in nisi tempor ullamcorper nec at velit. Proin pellentesque molestie orci, in varius justo euismod nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis ut nulla in lorem fermentum vestibulum ac sed leo. Praesent convallis urna a lacus interdum ultrices. Mauris augue mauris, iaculis quis tincidunt non, efficitur nec diam.
+
+To learn more about the ausmaps, please visit  <https://ausdams.org>.
+
+```{r echo = FALSE, include = FALSE}
+1 + 1
+```

@@ -1,0 +1,12 @@
+/* css styles */
+
+/* Align all main content text to the left */
+
+/* Remove top margin/padding from specific elements */
+.quarto-about-jolla.column-page,
+.quarto-about-jolla.column-page > .page-header,
+.quarto-about-jolla.column-page .container {
+    margin-top: 10px !important;
+    padding-top: 10px !important;
+}
+
