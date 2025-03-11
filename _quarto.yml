@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: maps.qmd
+        text: Charts
       - about.qmd
+     
 
 format:
   html:

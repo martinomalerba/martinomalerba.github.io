@@ -1,0 +1,14 @@
+---
+title: "Charts"
+toc: false
+about: 
+  template: trestles
+---
+
+### Maps
+
+Here is the chart abc
+
+```{r}
+head(mtcars)
+```
