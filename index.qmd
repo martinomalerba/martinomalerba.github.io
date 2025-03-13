@@ -11,20 +11,45 @@ about:
 ```{css}
 #| echo: false
 p {
-  text-align: left
+  text-align: justify
+}
+
+.button {
+  display: block;
+  width: fit-content;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #5A6877;
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+
+
+.button:hover {
+  background-color: #9099A4;
 }
 ```
 
-Some introductory text here describing Australian farm dams.
+Welcome to AusDams.org – Australia's interactive gateway to understanding and managing farm dams!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nam tincidunt, sapien nec congue porta, tellus risus ullamcorper mi, a rutrum justo eros pretium libero. Morbi eu tincidunt neque. In hac habitasse platea dictumst. Praesent in pulvinar orci, nec vulputate ipsum. Aliquam erat volutpat. Curabitur sagittis accumsan nisl, a dignissim eros varius in.
+Australia relies heavily on farm dams, vital resources in the world’s second driest continent. Yet, we know surprisingly little about their number, distribution, and ecological impact.
 
-Fusce tristique, **turpis at molestie faucibus**, ipsum erat molestie lorem, ac vulputate odio nulla nec sem. Quisque sollicitudin, mauris eu pulvinar fermentum, est sem varius tortor, eget efficitur sapien nisi non purus. Nullam vitae erat in nisi tempor ullamcorper nec at velit. Proin pellentesque molestie orci, in varius justo euismod nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis ut nulla in lorem fermentum vestibulum ac sed leo. Praesent convallis urna a lacus interdum ultrices. Mauris augue mauris, iaculis quis tincidunt non, efficitur nec diam.
+AusDams.org provides free access to detailed maps, real-time data, and insights on nearly 1.8 million farm dams across Australia. 
 
-To learn more about the ausmaps, please visit <https://ausdams.org>.
+Discover how these dams affect water security, greenhouse gas emissions, and biodiversity, and explore simple strategies like fencing to reduce environmental impacts dramatically.
+
+Join communities, researchers, and policymakers in harnessing data to protect Australia's freshwater future. 
+
+Access the interactive map to visualise the distribution and statistics for farm dams across Australia.
+
+[Access the Interactive Portal](https://ausdams.org){.button}
 
 ```{r echo = FALSE, include = FALSE}
 1 + 1
 ```
 
-`Hello bla bla bla`

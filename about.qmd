@@ -1,10 +1,96 @@
 ---
 title: "About"
 toc: false
+#image: www/about-solana.png
 about: 
-  template: trestles
+  template: solana
 ---
 
-### Overview
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
 
-Some introductory text here describing Australian farm dams.
+Welcome to **AusDams.org** – Australia's free interactive portal dedicated to farm dams.
+
+Farm dams are vital assets in Australia's agricultural landscape, yet comprehensive data about their number, size, and impacts remain surprisingly scarce. AusDams.org bridges this gap by offering open access to detailed, interactive data on Australian farm dams, empowering communities, researchers, and policymakers to make informed decisions.
+
+**Why Farm Dams Matter**
+
+Australia is the world’s second driest continent, making freshwater an essential resource for our agriculture, economy, and ecosystems. Farm dams, though small individually, collectively hold significant water reserves, drive \$17.7 billion in agricultural value, and profoundly affect biodiversity, greenhouse gas emissions, and nutrient cycles.
+
+Our research reveals there are approximately **1.76 million farm dams** across Australia, covering an area larger than Rhode Island (4,678 km²), storing more than **20 times the volume of Sydney Harbour (10,990 GL)**. Yet around 11% remain undocumented, highlighting the urgency for better monitoring and management.
+
+**Greenhouse Gas Emissions**
+
+Farm dams significantly contribute to Australia's greenhouse gas emissions, producing approximately **41 kilotons of methane (CH₄)** annually. Installing fences to exclude livestock can reduce methane emissions dramatically—by **56% to 92%**. This simple action improves water quality, reducing dissolved nutrients like nitrogen and phosphorus by up to **57%**, and increasing dissolved oxygen levels, significantly lowering emissions further.
+
+**Supporting Biodiversity**
+
+Well-managed farm dams play a crucial role in conserving biodiversity, particularly amphibians, birds, and reptiles. Farm dams that are older (\>20 years), intermediate in size (\~0.1 ha), and close to other freshwater systems or conservation areas support significantly higher biodiversity. These dams serve as refuges for threatened species, highlighting their potential as biodiversity hotspots and their importance in ecological restoration initiatives and biodiversity credit programs.
+
+**How to Use the Interactive Portal**
+
+-   **Choose Display Colors**: Select how farm dams are colored on the map, either by region, map classification, or descriptive attributes.
+
+-   **Select Point Size**: Customize how each farm dam's size is represented on the map—by area, perimeter, or water capacity.
+
+-   **Navigate or Click**: Move around the map to your region of interest or simply click one of the polygons to instantly generate regional statistics.
+
+Use the bottom-left graph to view detailed statistics including:
+
+-   Distribution of farm dam areas (in m²)
+
+-   Time-series of monthly temperatures (°C)
+
+-   Average % water capacity (0% empty to 100% full)
+
+-   Time-series of water surface area (m²)
+
+-   Farm dam count over time
+
+-   Methane emission factor (methane per ha per year)
+
+-   Total methane emissions (methane per year)
+
+-   Farm dam density (dams per ha)
+
+You can also access our **Data Explorer** to view underlying data summaries by Local Government Authorities or individual dams.
+
+**Our Mission**
+
+Our mission is to improve Australia's water security and ecological sustainability through accessible data. AusDams.org is continuously updated with cutting-edge research, ensuring you have the most reliable information at your fingertips.
+
+Explore the map, generate custom statistics, and join us in transforming data into sustainable practices.
+
+**Who We Are**
+
+-   **Martino Malerba** – martino.malerba\@rmit.edu.au
+
+-   **Nicholas Wright** – nicholas.wright\@dpird.wa.gov.au
+
+-   **Peter Macreadie** – peter.macreadie\@deakin.edu.au
+
+**Get in Touch**
+
+We welcome your feedback and collaboration. Please reach out with comments, questions, or suggestions. Together, we can manage Australia's freshwater resources more sustainably.
+
+**Learn More**
+
+Read our full studies published in *Remote Sensing*, *Global Change Biology*, *Science of the Total Environment*, and *Biological Conservation*:
+
+· Malerba, M. E., N. Wright, and P. I. Macreadie. 2021. A Continental-Scale Assessment of Density, Size, Distribution and Historical Trends of Farm Dams Using Deep Learning Convolutional Neural Networks. Remote Sensing 13:319. <https://www.mdpi.com/2072-4292/13/2/319>
+
+· Malerba, M. E., D. B. Lindenmayer, B. C. Scheele, P. Waryszak, I. N. Yilmaz, L. Schuster, and P. I. Macreadie. 2022. Fencing farm dams to exclude livestock halves methane emissions and improves water quality. Glob Chang Biol 28:4701-4712. <https://doi.org/10.1111/gcb.16237>
+
+· Odebiri, O., J. Archbold, J. Glen, P. I. Macreadie, and M. E. Malerba. 2024. Excluding livestock access to farm dams reduces methane emissions and boosts water quality. Science of the Total Environment 951:175420. <https://doi.org/10.1016/j.scitotenv.2024.175420>
+
+· Malerba, M. E., J. J. L. Rowley, P. I. Macreadie, J. Frazer, N. Wright, N. Zaidi, A. Nazari, D. Thiruvady, and D. A. Driscoll. 2023. Conserving nature's chorus: Local and landscape features promoting frog species richness in farm dams. Biological Conservation 286. <https://doi.org/10.1016/j.biocon.2023.110270>
+
+Thank you for visiting AusDams.org – let’s shape the future of Australia's farm dams together!
+
+```{r echo = FALSE, include = FALSE}
+1 + 1
+```
