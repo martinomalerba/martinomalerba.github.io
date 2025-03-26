@@ -39,17 +39,16 @@ Welcome to AusDams.org – Australia's interactive gateway to understanding and 
 
 Australia relies heavily on farm dams, vital resources in the world’s second driest continent. Yet, we know surprisingly little about their number, distribution, and ecological impact.
 
-AusDams.org provides free access to detailed maps, real-time data, and insights on nearly 1.8 million farm dams across Australia. 
+AusDams.org provides free access to detailed maps, real-time data, and insights on nearly 1.8 million farm dams across Australia.
 
 Discover how these dams affect water security, greenhouse gas emissions, and biodiversity, and explore simple strategies like fencing to reduce environmental impacts dramatically.
 
-Join communities, researchers, and policymakers in harnessing data to protect Australia's freshwater future. 
+Join communities, researchers, and policymakers in harnessing data to protect Australia's freshwater future.
 
 Access the interactive map to visualise the distribution and statistics for farm dams across Australia.
 
-[Access the Interactive Portal](https://ausdams.org){.button}
+[Access the Interactive Portal](https://maps.ausdams.org){.button}
 
 ```{r echo = FALSE, include = FALSE}
 1 + 1
 ```
-
