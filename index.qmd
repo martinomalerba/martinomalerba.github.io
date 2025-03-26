@@ -1,7 +1,7 @@
 ---
 title: "Australian Farm Dams"
 toc: false
-image: www/DamSample.jpeg
+image: www/CoverImage1.jpg
 about: 
   template: jolla
   image-shape: rectangle
