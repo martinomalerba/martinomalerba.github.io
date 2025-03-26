@@ -13,7 +13,7 @@ p {
 }
 ```
 
-Welcome to **AusDams.org** – Australia's free interactive portal dedicated to farm dams.
+Welcome to **AusDams.org**! Australia's free interactive portal dedicated to farm dams.
 
 Farm dams are vital assets in Australia's agricultural landscape, yet comprehensive data about their number, size, and impacts remain surprisingly scarce. AusDams.org bridges this gap by offering open access to detailed, interactive data on Australian farm dams, empowering communities, researchers, and policymakers to make informed decisions.
 
